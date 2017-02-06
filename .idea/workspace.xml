@@ -18,42 +18,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fileWordReversing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileWordReversing.py">
+      <file leaf-file-name="primeNumber.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primeNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="260">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fileCharacterReversing.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileCharacterReversing.py">
+      <file leaf-file-name="primeUnitTesting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primeUnitTesting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverse.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverse.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fileCharRevUnitTesting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileCharRevUnitTesting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +73,8 @@
         <option value="$PROJECT_DIR$/fileCharRevUnitTesting.py" />
         <option value="$PROJECT_DIR$/fileWordReversing.py" />
         <option value="$PROJECT_DIR$/fileCharacterReversing.py" />
+        <option value="$PROJECT_DIR$/primeNumber.py" />
+        <option value="$PROJECT_DIR$/primeUnitTesting.py" />
       </list>
     </option>
   </component>
@@ -142,51 +126,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fileWordReversing">
-    <configuration default="false" name="Unittest MyTestCase.test_fibSeries" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FinalSubmission" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibseriesUnitTesting.py" />
-      <option name="CLASS_NAME" value="MyTestCase" />
-      <option name="METHOD_NAME" value="test_fibSeries" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest MyTestCase.test_fibSeries_fail" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FinalSubmission" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibseriesUnitTesting.py" />
-      <option name="CLASS_NAME" value="MyTestCase" />
-      <option name="METHOD_NAME" value="test_fibSeries_fail" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittest MyTestCase.test_nextprime">
     <configuration default="false" name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,6 +176,45 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileCharacterReversing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="primeNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinalSubmission" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primeNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest MyTestCase.test_nextprime" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinalSubmission" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primeUnitTesting.py" />
+      <option name="CLASS_NAME" value="MyTestCase" />
+      <option name="METHOD_NAME" value="test_nextprime" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -373,19 +352,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_fibSeries" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_fibSeries_fail" />
-      <item index="2" class="java.lang.String" itemvalue="Python.demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fileWordReversing" />
-      <item index="4" class="java.lang.String" itemvalue="Python.fileCharacterReversing" />
+      <item index="0" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fileWordReversing" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fileCharacterReversing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.primeNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_nextprime" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.fileWordReversing" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fileCharacterReversing" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_fibSeries_fail" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_fibSeries" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_nextprime" />
+        <item index="1" class="java.lang.String" itemvalue="Python.primeNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fileWordReversing" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fileCharacterReversing" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -403,15 +382,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_MyTestCase_test_cotains_specialChar - 2017.02.06 at 17h 48m 59s.xml">
-      <configuration name="Unittest MyTestCase.test_cotains_specialChar" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittest_MyTestCase_test_cotains_specialChar - 2017.02.06 at 17h 49m 33s.xml">
-      <configuration name="Unittest MyTestCase.test_cotains_specialChar" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittest_MyTestCase_test_fibSeries - 2017.02.06 at 18h 29m 06s.xml">
-      <configuration name="Unittest MyTestCase.test_fibSeries" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_MyTestCase_test_fibSeries - 2017.02.06 at 18h 29m 18s.xml">
       <configuration name="Unittest MyTestCase.test_fibSeries" configurationId="tests" />
     </history-entry>
@@ -433,6 +403,15 @@
     <history-entry file="Unittest_MyTestCase_test_fibSeries_fail - 2017.02.06 at 18h 32m 04s.xml">
       <configuration name="Unittest MyTestCase.test_fibSeries_fail" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittest_MyTestCase_test_nextprime - 2017.02.06 at 19h 28m 31s.xml">
+      <configuration name="Unittest MyTestCase.test_nextprime" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_MyTestCase_test_nextprime - 2017.02.06 at 19h 29m 28s.xml">
+      <configuration name="Unittest MyTestCase.test_nextprime" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_MyTestCase_test_nextprime - 2017.02.06 at 19h 29m 49s.xml">
+      <configuration name="Unittest MyTestCase.test_nextprime" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,7 +432,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25154322" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25154322" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -663,6 +642,24 @@
         <state relative-caret-position="180">
           <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeUnitTesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
