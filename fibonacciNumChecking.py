@@ -20,7 +20,15 @@ def fibonacciSeries(userinput):
     except ValueError as e:
         print(e)
     else:
-        if isPerfectSquare((5*userinput*userinput) - 4) or isPerfectSquare((5*userinput*userinput) + 4):
+        if isPerfectSquare(
+            (5 *
+             userinput *
+             userinput) -
+            4)or isPerfectSquare(
+            (5 *
+             userinput *
+             userinput) +
+                4):
             return True
         else:
             return False

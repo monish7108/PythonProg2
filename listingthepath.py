@@ -39,9 +39,10 @@ def printing_the_output(file,dir):
 def main(userinput):
     try:
         os.path.isdir(userinput)
+            #raise NotADirectoryError("This is not a directory")
         pathlist = os.listdir(userinput)
 
-    except NotADirectoryError as e:
+    except OSError as e:
         print("\n", e)
 
     else:

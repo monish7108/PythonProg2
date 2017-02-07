@@ -8,7 +8,7 @@ class MyTestCase(unittest.TestCase):
     def test_isvalid_email(self):
         self.assertTrue(isvalidEmail("asfab@angsekng.sjdj"))
     def test_isvalid_phonenumber(self):
-        self.assertTrue(isvalidPhoneNum("080-234-123"))
+        self.assertTrue(isvalidPhoneNum("080-234-1234"))
     def test_contains_onlyNumbers(self):
         self.assertTrue(containsOnlyNumbers("47826478"))
     def test_contains_onlyChar(self):
